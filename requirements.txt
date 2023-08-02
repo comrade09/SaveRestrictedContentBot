@@ -4,5 +4,13 @@ https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
 https://github.com/vasusen-code/ethon/archive/refs/tags/v0.1.4.zip
 cryptg
 tgcrypto
-pyrogram
+pyrogram==2.0.35
 python-decouple
+pyrogram==2.0.35
+TgCrypto==1.2.5 
+motor==3.1.2
+dnspython==2.3.0
+hachoir==3.2.0
+Pillow==9.5.0 
+aiohttp==3.8.4
+pytz==2023.3
